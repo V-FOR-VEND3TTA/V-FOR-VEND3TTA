@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @imgeorgebest on Twitter 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a polyglot (speak German, Portuguese and English)
-
+- Nationality: South African
