@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun facts: I am a polyglot (I speak German and Portuguese in addition to English) and I automate a lot of boring stuff in Python
 - 🌍 Nationality: South African 🇿🇦
-- I am on ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fimgeorgebest) under this handle
-<img src="fa-crown.svg" width="50" height="50">
+- You can https://img.shields.io/twitter/follow/imgeorgebest?style=social on Twitter
 
 - 🧰 My toolbox 
  
