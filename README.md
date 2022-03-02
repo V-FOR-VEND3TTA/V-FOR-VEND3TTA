@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!--CSS-->
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50">
 <!--JavaScript-->
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.vaSsvg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50">
 
 ### Back end development
 <!--Node-->
