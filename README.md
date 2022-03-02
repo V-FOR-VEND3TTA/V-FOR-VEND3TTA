@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun facts: I am a polyglot (I speak German and Portuguese in addition to English) and I automate a lot of boring stuff in Python
 - 🌍 Nationality: South African 🇿🇦
 - I am on ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fimgeorgebest) under this handle
+<img src="fa-crown.svg" width="50" height="50">
+
 - 🧰 My toolbox 
  
 <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
