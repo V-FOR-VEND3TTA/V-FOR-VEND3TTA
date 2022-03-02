@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Golang, microservices, Docker and Kubernetes to build real time cloud applications
 - 👯 I’m looking to collaborate on almost anything related to JavaScript, Golang or Django
 - 💬 Ask me about ecommerce websites, PWA's
-- 😄 Pronouns: he/him
+- ♂️ Pronouns: he/him
 - ⚡ Fun facts: I am a polyglot (I speak German and Portuguese in addition to English) and I automate a lot of boring stuff in Python
 - 🌍 Nationality: South African 🇿🇦
 - You can ![Twitter Follow](https://img.shields.io/twitter/follow/imgeorgebest?style=social) on Twitter
