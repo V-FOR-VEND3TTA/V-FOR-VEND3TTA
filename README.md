@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Back end development
 <!--Node-->
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"><!--Django--><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="50" height="50"><img src="" width="50" height="50"><!--Golang--><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50" height="50"><!--MySQL--><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"><!--MongoDB--><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"><!--Django--><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="50" height="50"><!--Golang--><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50" height="50"><!--MySQL--><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"><!--MongoDB--><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50">
 
 ### CI/CD
 
