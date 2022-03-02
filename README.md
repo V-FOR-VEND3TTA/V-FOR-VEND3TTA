@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun facts: I am a polyglot (I speak German and Portuguese in addition to English) and I automate a lot of boring stuff in Python
 - 🌍 Nationality: South African 🇿🇦
-- You can https://img.shields.io/twitter/follow/imgeorgebest?style=social on Twitter
+- You can ![Twitter Follow](https://img.shields.io/twitter/follow/imgeorgebest?style=social) on Twitter
 
 - 🧰 My toolbox 
  
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
+(<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/>) 
 <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 
