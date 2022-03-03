@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### Front end
 <!--HTML-->
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"><!--CSS--><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"><!--JavaScript--><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"><!--CSS--><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"><!--JavaScript--><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50">
 
 ### Back end development
 <!--Node-->
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"><!--Django--><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="50" height="50"><!--Golang--><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50" height="50"><!--MySQL--><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"><!--MongoDB--><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"><!--Django--><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="50" height="50"><!--Golang--><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"><<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" width="50" height="50">
 
 ### CI/CD
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-FOR-VEND3TTA](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-FOR-VEND3TTA&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=V-FOR-VEND3TTA&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
