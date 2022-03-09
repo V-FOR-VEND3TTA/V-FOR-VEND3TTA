@@ -19,17 +19,17 @@ Here are some ideas to get you started:
 ### 🧰 My toolbox 
 
 ### Front end
-- The tools that I use to build user interfaces and experiences
+The tools that I use to build user interfaces and experiences
 <!--HTML-->
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"><!--CSS--><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"><!--JavaScript--><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50">
 
 ### Back end development
-- The tools that I use to build business solutions and provide verification and validation for users
+The tools that I use to build business solutions and provide verification and validation for users
 <!--Node-->
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"><!--Django--><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="50" height="50"><!--Golang--><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" width="50" height="50">
 
 ### CI/CD
-- The tools I use to move seamlessly across the software development lifecycle
+The tools I use to move seamlessly across the software development lifecycle
 <!--Docker-->
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50" height="50"><!--Kubernetes--><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50" height="50">
 
