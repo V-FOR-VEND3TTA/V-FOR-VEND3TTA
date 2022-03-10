@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a Node.js chat room application with Socket.io and an authentication system
-- 🌱 I’m currently learning Golang, microservices, Docker and Kubernetes to build real time cloud applications
+- 🌱 I’m currently learning how to build better microservices, how to use Docker and Kubernetes to build real time cloud applications
 - 👯 I’m looking to collaborate on almost anything related to JavaScript, Golang or Django
 - 💬 Ask me about ecommerce websites, PWA's
 - ♂️ Pronouns: he/him
