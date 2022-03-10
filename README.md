@@ -29,7 +29,7 @@ The tools that I use to build business solutions, provide verification and valid
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"><!--Django--><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="50" height="50"><!--Golang--><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" width="50" height="50">
 
 ### CI/CD
-The tools I use to move seamlessly across the software development lifecycle
+The tools I use to move seamlessly across the software development lifecycle and handle microservices
 <!--Docker-->
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50" height="50"><!--Kubernetes--><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50" height="50">
 
