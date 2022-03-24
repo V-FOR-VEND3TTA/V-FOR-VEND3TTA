@@ -35,8 +35,6 @@ The tools I use to move seamlessly across the software development lifecycle and
 
 ---
 
----
-
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-FOR-VEND3TTA&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
