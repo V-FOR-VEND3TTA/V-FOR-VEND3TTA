@@ -3,8 +3,8 @@
 <!--
 **V-FOR-VEND3TTA/V-FOR-VEND3TTA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on building ecommerce websites with Django
-- 🌱 When I am not doing that I am learning how to build better microservices, how to use Docker and Kubernetes to build real time cloud applications
+- 🔭 I’m currently working on building e-commerce websites with Django that are better than what Shopify, Wix, etc offer you
+- 🌱 When I am not doing that I am reading an ungodly amount of books or playing video games
 - 👯 I’m looking to collaborate on anything related to e-commerce in Django
 - 💬 Ask me about ecommerce websites, backend development
 - ♂️ Pronouns: he/him
