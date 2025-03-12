@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on anything related to e-commerce in Django
 - 💬 Ask me about ecommerce websites, backend development
 - ♂️ Pronouns: he/him
-- ⚡ Fun facts: I am a polyglot (I speak German in addition to English) and I like automate a lot of boring stuff in Python
+- ⚡ Fun facts: I am a polyglot (I speak German, French, Portuguese, and Spanish in addition to English) and I like to automate a lot of boring stuff in Python
 - 🌍 Nationality: South African 🇿🇦
 - You can ![Twitter Follow](https://img.shields.io/twitter/follow/imgeorgebest?style=social) on X.
 - I am open for work 💼💻
